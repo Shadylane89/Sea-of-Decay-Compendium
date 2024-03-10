@@ -41,7 +41,7 @@
     }
   ],
   "url": "https://github.com/Shadylane89/Sea-of-Decay-Compendium",
-  "manifest": "https://raw.githubusercontent.com/Shadylane89/Sea-of-Decay-Compendium/main/module.json",
+  "manifest": "https://github.com/Shadylane89/Sea-of-Decay-Compendium/blob/main/module.json",
   "download": "https://github.com/Shadylane89/Sea-of-Decay-Compendium/blob/main/Sea%20of%20Decay%20Compendium.zip",
   "readme": "README.md"
 }
